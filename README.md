@@ -9,7 +9,7 @@ Resources Used:
 
 <hr>
 Part 1 (HTML)<br>
-
+<br>
 Filename: [index.html](index.html) <br>
 How to Run: Download index.html and open with any web browser
 
