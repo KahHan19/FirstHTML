@@ -7,10 +7,10 @@ Resources Used:
 
 
 <hr>
-Part 1 of self learning HTML from online resources.
+Part 1 (HTML)
 
 Filename: [index.html](index.html) <br>
-How to Run: Download index.html and run it
+How to Run: Download index.html and open with any web browser
 
 Online resource used: https://www.youtube.com/watch?v=PlxWf493en4
 
@@ -19,4 +19,19 @@ Content:
 - This video gives a good introduction to HTML.
 - Content is easy to digest even for begginner. 
 - Go through the basic tags used in HTML.
+<hr>
+
+
+<hr>
+Part 2 (Basic CSS)
+
+Filename: [buttons.html](buttons.html) <br>
+How to Run: Download index.html and open with any web browser
+
+Online resource used: https://www.youtube.com/watch?v=G3e-cpL7ofc (17:03 - 1:03:08)
+
+Content: 
+- This video gives a good introduction to CSS.
+- Content is easy to digest even for begginner. 
+- Exercise provided to test your knowledge!
 <hr>
