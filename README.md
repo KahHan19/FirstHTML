@@ -15,3 +15,5 @@ Content:
 - This video gives a good introduction to HTML.
 - Content is easy to digest even for begginner. 
 - Go through the basic tags used in HTML.
+
+<hr>
