@@ -4,10 +4,11 @@ Here include the journey and resources I used to self learn HTML and CSS.<br>
 Resources Used:
 1. Visual Code Studio (Code editor)
 2. Web browser (Google Chrome)
+3. GitHub Dekstop (For code upload)
 
 
 <hr>
-Part 1 (HTML)
+Part 1 (HTML)<br>
 
 Filename: [index.html](index.html) <br>
 How to Run: Download index.html and open with any web browser
