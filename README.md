@@ -5,7 +5,7 @@ Here include the journey and resources I used to self learn HTML and CSS.
 <hr>
 Part 1 of self learning HTML from online resources.
 
-Filename: [index.html](index.html)
+Filename: [index.html](index.html) <br>
 How to Run: Download index.html and run it
 
 Online resource used: https://www.youtube.com/watch?v=PlxWf493en4
