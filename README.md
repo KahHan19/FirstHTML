@@ -3,8 +3,8 @@
 Here include the journey and resources I used to self learn HTML and CSS.
 
 
-Part 1 of self learning HTML from online resources.(index.html)
-
+Part 1 of self learning HTML from online resources.
+Filename: [index.html](https://www.youtube.com/watch?v=uvTcd-VlM64)
 Online resource used: https://www.youtube.com/watch?v=PlxWf493en4
 
 Content: 
