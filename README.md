@@ -2,7 +2,7 @@
 
 Here include the journey and resources I used to self learn HTML and CSS.
 
-
+<hr>
 Part 1 of self learning HTML from online resources.
 
 Filename: [index.html](index.html)
