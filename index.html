@@ -1,0 +1,206 @@
+<!DOCTYPE html> 
+<!-- 
+    Tells the browser that this is a HTML5 document
+-->
+
+<!-- 
+    Main Tags:
+    "<html>" - Inform the browser that everything inside is html ( ensures the content inside inherit characteristic of HTML )
+    "<head>" - Should have information about the website, where you load CSS and JavaScript files
+    "<body>" - Contains the main content of the website        
+-->
+
+<html>
+
+
+<!--
+    Head tag
+    ===================================================================================================================
+    <meta chatset="utf-8">
+        - utf-8, type of Unicode encoding ( translating letters/numbers/symbols in to bytes )
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        - Importnat for reponsive website (website that can display properly on all devices)
+
+    <tittle>
+        -Easy to understand
+    ====================================================================================================================        
+-->
+
+    <head>
+        <meta chatset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>
+            My First Website
+        </title>
+
+    </head>
+
+
+
+
+
+
+
+
+
+
+<!--
+    Body tag
+    ===================================================================================================================
+    <h> tags 
+        - Headline/Header text, Ranges from h1-h6(priority highest to lowest)
+
+    <p> 
+        - Paragraph
+
+
+    <br> 
+        - Line break
+        - an example of a void element, there is no content therefore there is no need for clossing tag
+    
+    <b> or <strong>
+        - Bold
+
+    <i> or <em>
+        - Italic
+
+    <u> 
+        - Underline
+    
+    <hr>
+        - Horizontal row
+
+    <a>
+        - anker tag, connect the clickable word(the word in between <a> and </a>) to a link
+        - <a href="" target="_blank"> 
+            > href(hypertext reference) is known as an element, where you put in the url of the website you want to connect to
+            > by writing target="blank_" the link will be opened in a new tab.
+
+    <img>
+        - for image
+        - <img src="" border="(number)">
+            > src = source ( image source where you input image link )
+            > border ( add a border, number = thickness )
+
+    <ul>
+        - bullet list 
+        - "u" in ul stands for unordered 
+
+    <ol>
+        - numbered list
+        - "o" in ol stands for ordered
+
+    <table>
+        - where you include table content
+        - <tr> = table row
+            - <th> = table header
+            - <td> = table data (will align with words with table header)
+
+        Attributes:
+        - "border = (number)"
+        - "cellpadding = (number)"
+        - "cellspacing = (number)" 
+        - "callspan = (number)" 
+        - "rowspan = (number) "
+        
+    ====================================================================================================================
+-->
+
+    <body>
+        <h1> Priority </h1>
+        <h2> Priority </h2>
+        <h3> Priority </h3>
+
+        <img src="https://www.multimediaxp.com/images/article_190508124638.1557333998.jpg" border="10">
+
+        <br>
+        <br>
+        
+        <strong><u>Unordered list</u></strong>
+
+
+        <ul>
+            <li>Chicken</li>
+                <ul>
+                    <li>Fat Chicken</li>
+                    <li>Skinny Chicken</li>
+                </ul>
+            <li>Cat</li>
+            <li>Dog</li>
+        </ul>
+
+        <br>
+
+        <strong><u>Ordered list</u></strong>
+
+        <ol>
+            <li>Chicken</li>
+            <li>Cat</li>
+            <li>Dog</li>
+        </ol>
+
+        <br>
+        
+        <p>
+            <a href="https://www.lipsum.com/" target="_blank">Lorem Ipsum</a> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        </p>
+
+        <b>Contrary to popular belief</b> <s>sd</s> <i>Lorem Ipsum</i> is <u>not</u> simply random text.
+
+        <p>
+            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+        </p>
+        
+        <br>
+
+        <hr>
+
+
+        <table border="1" cellpadding ="15" cellspacing="0">
+            <tr>
+                <th></th>
+                <th>Month</th>
+                <th colspan="2">Hour</th>
+                <th>Day</th>
+            </tr>
+
+            <tr>
+                <td rowspan="3">Fall</td>
+                <td>August</td>
+
+                <td>2hr</td>
+                <td>4hr</td>
+
+                <td>Tuesday</td>
+            </tr>
+
+            <tr>
+                <td>July</td>
+
+                <td>1hr</td>
+                <td>5hr</td>
+
+                <td>Friday</td>
+            </tr>
+
+            <tr>
+                <td>October</td>
+
+                <td>2hr</td>
+                <td>8hr</td>
+
+                <td>Thursday</td>
+            </tr>
+
+        </table>
+
+        <br>
+
+        It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+    </body>
+</html>
+
+
+
